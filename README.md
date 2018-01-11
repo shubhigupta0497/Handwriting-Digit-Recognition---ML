@@ -1,4 +1,5 @@
 HANDWRITING RECOGNITION USING ARTIFICIAL NEURAL NETWORKS
+
 Abstract— This project focuses on the implementation and development of handwritten digit recognition algorithm (backpropagation) using Artificial Neural Networks. It is a classification problem solved using aforementioned algorithm. A total of 400 input layers are used, corresponding to each pixel of the image and 10 output layers, corresponding to each digit from 0-9. The number of nodes in each hidden layer have been set to 25. The implementation of the same is done on Matlab, using Octave-GUI 4.2.1. ANN model was trained with 5000 images of various digits. The algorithm predicted English numerical digits with a maximum accuracy of 99.98%. 
 Index Terms—Hand Written; Artificial Neural Network; Back Propagation; English Numerical Digits; Sigmoid Function
 
